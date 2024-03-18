@@ -1,0 +1,5168 @@
+page 1
+
+
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">Tiny</div>
+    <div class="div-4">food</div>
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img"
+  />
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background: linear-gradient(172deg, #ffc3c8 0.65%, #ef2a39 50.35%);
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 80px;
+    flex-direction: column;
+    color: #fff;
+    font-weight: 700;
+    white-space: nowrap;
+    margin: 0 auto;
+  }
+  .div-2 {
+    display: flex;
+    margin-top: 109px;
+    width: 100%;
+    padding-left: 80px;
+    flex-direction: column;
+  }
+  .div-3 {
+    align-self: start;
+    margin-left: 14px;
+    font: italic 128px Lobster Two, sans-serif;
+  }
+  .div-4 {
+    align-self: end;
+    margin: 4px 49px 0 0;
+    font: italic 64px Lobster Two, sans-serif;
+  }
+  .img {
+    aspect-ratio: 1.2;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    align-self: center;
+    margin-top: 290px;
+    max-width: 308px;
+  }
+</style>
+
+
+page 2
+
+
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">
+      <div class="div-4">Tiny</div>
+      <div class="div-5"></div>
+    </div>
+    <div class="div-6">Order your favourite food !</div>
+    <div class="div-7">
+      <div class="div-8">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img"
+        />
+        <div class="div-9">Search</div>
+      </div>
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-2"
+      />
+    </div>
+    <div class="div-10">
+      <div class="div-11"><div class="div-12">All</div></div>
+      <div class="div-13"><div class="div-14">Combos</div></div>
+      <div class="div-15"><div class="div-16">Sliders</div></div>
+      <div class="div-17"><div class="div-18">Classic</div></div>
+    </div>
+    <div class="div-19">
+      <div class="div-20">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-3"
+        />
+        <div class="div-21">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Wendy’s Burger
+          </span>
+        </div>
+        <div class="div-22">
+          <div class="div-23">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-4"
+            />
+            <div class="div-24">4.9</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-5"
+          />
+        </div>
+      </div>
+      <div class="div-25">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-6"
+        />
+        <div class="div-26">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Hamburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Veggie Burger
+          </span>
+        </div>
+        <div class="div-27">
+          <div class="div-28">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-7"
+            />
+            <div class="div-29">4.8</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-8"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="div-30">
+      <div class="div-31">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-9"
+        />
+        <div class="div-32">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Chicken Burger
+          </span>
+        </div>
+        <div class="div-33">
+          <div class="div-34">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-10"
+            />
+            <div class="div-35">4.6</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-11"
+          />
+        </div>
+      </div>
+      <div class="div-36">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/14c9ba4ae2ca9c572d40c8214b9ff0f715d7a6741791086c6229741473a65b3f?"
+          class="img-12"
+        />
+        <div class="div-37">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Fried Chicken Burger
+          </span>
+        </div>
+        <div class="div-38">
+          <div class="div-39">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-13"
+            />
+            <div class="div-40">4.5</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-14"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-41">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-15"
+    />
+    <div class="div-42">
+      <div class="div-43"></div>
+      <div class="div-44"></div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 29px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-size: 14px;
+    color: #463a3a;
+    padding: 0 19px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    font-size: 45px;
+    font-weight: 400;
+    white-space: nowrap;
+    justify-content: space-between;
+  }
+  .div-4 {
+    font-family: Lobster, sans-serif;
+    align-self: start;
+    margin-top: 15px;
+  }
+  .div-5 {
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    width: 60px;
+    height: 60px;
+  }
+  .div-6 {
+    margin-top: 6px;
+    font: 400 15px Poppins, sans-serif;
+  }
+  .div-7 {
+    display: flex;
+    margin-top: 53px;
+    gap: 10px;
+    font-size: 18px;
+    color: #3c2f2f;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .div-8 {
+    border-radius: 20px;
+    box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-grow: 1;
+    flex-basis: auto;
+    padding: 16px 19px;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 28px;
+    align-self: start;
+  }
+  .div-9 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 60px;
+  }
+  .div-10 {
+    overflow-x: auto;
+    display: flex;
+    margin-top: 51px;
+    gap: 16px;
+    color: #6a6a6a;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    color: #f5f5f5;
+    justify-content: center;
+  }
+  .div-12 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    box-shadow: 0px 10px 18px -1px rgba(0, 0, 0, 0.25);
+    background-color: #ef2a39;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 28px;
+  }
+  .div-13 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-14 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 28px;
+  }
+  .div-15 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-16 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 33px;
+  }
+  .div-17 {
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-18 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 32px;
+  }
+  .div-19 {
+    display: flex;
+    margin-top: 31px;
+    gap: 20px;
+  }
+  .div-20 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-3 {
+    aspect-ratio: 1.1;
+    object-fit: auto;
+    object-position: center;
+    width: 127px;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-21 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 33px;
+  }
+  .div-22 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-23 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-24 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-25 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0 7px 15px 14px;
+  }
+  .img-6 {
+    aspect-ratio: 1.03;
+    object-fit: auto;
+    object-position: center;
+    width: 137px;
+    z-index: 10;
+    margin-top: -7px;
+    max-width: 100%;
+  }
+  .div-26 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 28px;
+  }
+  .div-27 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-28 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-7 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-29 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-30 {
+    display: flex;
+    margin-top: 31px;
+    gap: 20px;
+  }
+  .div-31 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-9 {
+    aspect-ratio: 0.97;
+    object-fit: auto;
+    object-position: center;
+    width: 127px;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-32 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 18px;
+  }
+  .div-33 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-34 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-10 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-35 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-11 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-36 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-12 {
+    aspect-ratio: 1.08;
+    object-fit: auto;
+    object-position: center;
+    width: 125px;
+    fill: url(<path-to-image>) lightgray 0px 17.05px / 115.2% 86.121% no-repeat;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-37 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 33px;
+  }
+  .div-38 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-39 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-13 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-40 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-14 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-41 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: 31px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 0 60px;
+  }
+  .img-15 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-42 {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .div-43 {
+    border-radius: 50%;
+    background-color: #ef2a39;
+    width: 82px;
+    height: 65px;
+  }
+  .div-44 {
+    border-radius: 50%;
+    background-color: #ef2a39;
+    width: 82px;
+    height: 65px;
+  }
+</style>
+
+
+
+ppage 3
+
+
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">
+      <div class="div-4">Tiny</div>
+      <div class="div-5"></div>
+    </div>
+    <div class="div-6">Order your favourite food !</div>
+    <div class="div-7">
+      <div class="div-8">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img"
+        />
+        <div class="div-9">Search</div>
+      </div>
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-2"
+      />
+    </div>
+    <div class="div-10">
+      <div class="div-11"><div class="div-12">All</div></div>
+      <div class="div-13"><div class="div-14">Combos</div></div>
+      <div class="div-15"><div class="div-16">Sliders</div></div>
+      <div class="div-17"><div class="div-18">Classic</div></div>
+    </div>
+    <div class="div-19">
+      <div class="div-20">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-3"
+        />
+        <div class="div-21">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Wendy’s Burger
+          </span>
+        </div>
+        <div class="div-22">
+          <div class="div-23">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-4"
+            />
+            <div class="div-24">4.9</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-5"
+          />
+        </div>
+      </div>
+      <div class="div-25">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-6"
+        />
+        <div class="div-26">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Hamburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Veggie Burger
+          </span>
+        </div>
+        <div class="div-27">
+          <div class="div-28">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-7"
+            />
+            <div class="div-29">4.8</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-8"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="div-30">
+      <div class="div-31">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-9"
+        />
+        <div class="div-32">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Chicken Burger
+          </span>
+        </div>
+        <div class="div-33">
+          <div class="div-34">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-10"
+            />
+            <div class="div-35">4.6</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-11"
+          />
+        </div>
+      </div>
+      <div class="div-36">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/14c9ba4ae2ca9c572d40c8214b9ff0f715d7a6741791086c6229741473a65b3f?"
+          class="img-12"
+        />
+        <div class="div-37">
+          <span style="font-weight: 600; color: rgba(70, 58, 58, 1)">
+            Cheeseburger
+          </span>
+          <br />
+          <span style="font-weight: 400; color: rgba(70, 58, 58, 1)">
+            Fried Chicken Burger
+          </span>
+        </div>
+        <div class="div-38">
+          <div class="div-39">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-13"
+            />
+            <div class="div-40">4.5</div>
+          </div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-14"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-41">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-15"
+    />
+    <div class="div-42">
+      <div class="div-43"></div>
+      <div class="div-44"></div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 29px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-size: 14px;
+    color: #463a3a;
+    padding: 0 19px;
+  }
+  .div-3 {
+    display: flex;
+    gap: 20px;
+    font-size: 45px;
+    font-weight: 400;
+    white-space: nowrap;
+    justify-content: space-between;
+  }
+  .div-4 {
+    font-family: Lobster, sans-serif;
+    align-self: start;
+    margin-top: 15px;
+  }
+  .div-5 {
+    border-radius: 20px;
+    background-color: #d9d9d9;
+    width: 60px;
+    height: 60px;
+  }
+  .div-6 {
+    margin-top: 6px;
+    font: 400 15px Poppins, sans-serif;
+  }
+  .div-7 {
+    display: flex;
+    margin-top: 53px;
+    gap: 10px;
+    font-size: 18px;
+    color: #3c2f2f;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .div-8 {
+    border-radius: 20px;
+    box-shadow: 0px 4px 19px 0px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-grow: 1;
+    flex-basis: auto;
+    padding: 16px 19px;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 28px;
+    align-self: start;
+  }
+  .div-9 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 60px;
+  }
+  .div-10 {
+    overflow-x: auto;
+    display: flex;
+    margin-top: 51px;
+    gap: 16px;
+    color: #6a6a6a;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    color: #f5f5f5;
+    justify-content: center;
+  }
+  .div-12 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    box-shadow: 0px 10px 18px -1px rgba(0, 0, 0, 0.25);
+    background-color: #ef2a39;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 28px;
+  }
+  .div-13 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-14 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 28px;
+  }
+  .div-15 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-16 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 33px;
+  }
+  .div-17 {
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-18 {
+    font-family: Inter, sans-serif;
+    border-radius: 20px;
+    background-color: #f3f4f6;
+    align-items: start;
+    justify-content: center;
+    padding: 17px 32px;
+  }
+  .div-19 {
+    display: flex;
+    margin-top: 31px;
+    gap: 20px;
+  }
+  .div-20 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-3 {
+    aspect-ratio: 1.1;
+    object-fit: auto;
+    object-position: center;
+    width: 127px;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-21 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 33px;
+  }
+  .div-22 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-23 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-24 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-25 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0 7px 15px 14px;
+  }
+  .img-6 {
+    aspect-ratio: 1.03;
+    object-fit: auto;
+    object-position: center;
+    width: 137px;
+    z-index: 10;
+    margin-top: -7px;
+    max-width: 100%;
+  }
+  .div-26 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 28px;
+  }
+  .div-27 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-28 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-7 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-29 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-30 {
+    display: flex;
+    margin-top: 31px;
+    gap: 20px;
+  }
+  .div-31 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-9 {
+    aspect-ratio: 0.97;
+    object-fit: auto;
+    object-position: center;
+    width: 127px;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-32 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 18px;
+  }
+  .div-33 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-34 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-10 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-35 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-11 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-36 {
+    border-radius: 20px;
+    box-shadow: 0px 10px 17px 0px rgba(0, 0, 0, 0.13);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 5px 7px 15px 14px;
+  }
+  .img-12 {
+    aspect-ratio: 1.08;
+    object-fit: auto;
+    object-position: center;
+    width: 125px;
+    fill: url(<path-to-image>) lightgray 0px 17.05px / 115.2% 86.121% no-repeat;
+    align-self: center;
+    max-width: 100%;
+  }
+  .div-37 {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    margin-top: 33px;
+  }
+  .div-38 {
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .div-39 {
+    display: flex;
+    gap: 6px;
+    flex: 1;
+    margin: auto 0;
+  }
+  .img-13 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-40 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-14 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-41 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: 31px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 0 60px;
+  }
+  .img-15 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-42 {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .div-43 {
+    border-radius: 50%;
+    background-color: #ef2a39;
+    width: 82px;
+    height: 65px;
+  }
+  .div-44 {
+    border-radius: 50%;
+    background-color: #ef2a39;
+    width: 82px;
+    height: 65px;
+  }
+</style>
+ 
+
+page 4
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Wendy’s Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.9</div>
+      <div class="div-7">-</div>
+      <div class="div-8">23 min</div>
+    </div>
+    <div class="div-9">
+      Fresh British beef topped with cheese, pickles, onions, tomatoes, crisp
+      lettuce, Heinz ketchup, and Heinz mayo. It's big flavour at a savoury
+      price. It tastes like a cheese hamburger, with cheese. A cheeseburger is
+      the sum of its parts. 
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$9.25</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">2</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.01;
+    object-fit: auto;
+    object-position: center;
+    width: 186px;
+    align-self: center;
+    margin-top: 140px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 26px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 15px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+pAGE 5<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Wendy’s Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.9</div>
+      <div class="div-7">-</div>
+      <div class="div-8">23 min</div>
+    </div>
+    <div class="div-9">
+      Fresh British beef topped with cheese, pickles, onions, tomatoes, crisp
+      lettuce, Heinz ketchup, and Heinz mayo. It's big flavour at a savoury
+      price. It tastes like a cheese hamburger, with cheese. A cheeseburger is
+      the sum of its parts. 
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$9.25</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">2</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.01;
+    object-fit: auto;
+    object-position: center;
+    width: 186px;
+    align-self: center;
+    margin-top: 140px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 26px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 15px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+
+page 6
+
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Hamburger Veggie Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.8</div>
+      <div class="div-7">-</div>
+      <div class="div-8">17 min</div>
+    </div>
+    <div class="div-9">
+      A veggie burger is a hamburger made with a patty that does not contain
+      meat, the patty of such a hamburger. They generally taste like whatever
+      vegetables they are made from, with some kind of added seasoning.
+      <br />
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$8.75</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">1</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.09;
+    object-fit: auto;
+    object-position: center;
+    width: 157px;
+    align-self: center;
+    margin-top: 181px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 14px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    align-self: center;
+    display: flex;
+    margin-top: 53px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 10px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 17px;
+    color: #000;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+page 7 
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Hamburger Veggie Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.8</div>
+      <div class="div-7">-</div>
+      <div class="div-8">17 min</div>
+    </div>
+    <div class="div-9">
+      A veggie burger is a hamburger made with a patty that does not contain
+      meat, the patty of such a hamburger. They generally taste like whatever
+      vegetables they are made from, with some kind of added seasoning.
+      <br />
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$8.75</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">1</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.09;
+    object-fit: auto;
+    object-position: center;
+    width: 157px;
+    align-self: center;
+    margin-top: 181px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 14px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    align-self: center;
+    display: flex;
+    margin-top: 53px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 10px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 17px;
+    color: #000;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+page 8
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Chicken Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.6</div>
+      <div class="div-7">-</div>
+      <div class="div-8">26 min</div>
+    </div>
+    <div class="div-9">
+      All you need is soft burger buns, chicken bread crumbs, flour,
+      spices. sauce, veggies and lettuce. To prepare and fry the patty, i have
+      followed the same method shared in the popcorn chicken and fried chicken
+      recipes.
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$10.25</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">1</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.11;
+    object-fit: auto;
+    object-position: center;
+    width: 132px;
+    align-self: center;
+    margin-top: 206px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 53px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 24px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 17px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+page 9
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Chicken Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.6</div>
+      <div class="div-7">-</div>
+      <div class="div-8">26 min</div>
+    </div>
+    <div class="div-9">
+      All you need is soft burger buns, chicken bread crumbs, flour,
+      spices. sauce, veggies and lettuce. To prepare and fry the patty, i have
+      followed the same method shared in the popcorn chicken and fried chicken
+      recipes.
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$10.25</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">1</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.11;
+    object-fit: auto;
+    object-position: center;
+    width: 132px;
+    align-self: center;
+    margin-top: 206px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 64px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 53px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 24px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 17px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+
+page 10
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Fried Chicken Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.5</div>
+      <div class="div-7">-</div>
+      <div class="div-8">15 min</div>
+    </div>
+    <div class="div-9">
+      A chicken burger makes for a quick midweek meal or weekend BBQ's with
+      friends! Crispy seasoned chicken breast, topped with mandatory melted
+      cheese, piled onto soft rolls with onion, avocado, lettuce, tomato and
+      garlic mayo.
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$7.35</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">2</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.45;
+    object-fit: auto;
+    object-position: center;
+    width: 162px;
+    align-self: center;
+    margin-top: 216px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 61px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 26px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 15px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+
+page 11
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-2"
+  />
+  <div class="div-3">
+    <div class="div-4">Cheeseburger Fried Chicken Burger</div>
+    <div class="div-5">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-6">4.5</div>
+      <div class="div-7">-</div>
+      <div class="div-8">15 min</div>
+    </div>
+    <div class="div-9">
+      A chicken burger makes for a quick midweek meal or weekend BBQ's with
+      friends! Crispy seasoned chicken breast, topped with mandatory melted
+      cheese, piled onto soft rolls with onion, avocado, lettuce, tomato and
+      garlic mayo.
+    </div>
+    <div class="div-10">
+      <div class="div-11">
+        <div class="div-12">Spicy</div>
+        <div class="div-13"></div>
+        <div class="div-14">Mild</div>
+        <div class="div-15">$7.35</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">Hot</div>
+        <div class="div-18">
+          <div class="div-19">
+            <div class="div-20">Portion</div>
+            <div class="div-21">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-4"
+              />
+              <div class="div-22">2</div>
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-5"
+              />
+            </div>
+          </div>
+          <div class="div-23">ORDER NOW</div>
+        </div>
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-6"
+    />
+  </div>
+  <div class="div-24">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/486e27743b3982b56db6bdc5e14d69927c03005364835d2b2bd60cbfb52ca26d?"
+      class="img-7"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-8"
+    />
+    <div class="div-25">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <div class="div-26">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+    </div>
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-9"
+    />
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-top: 28px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .img-2 {
+    aspect-ratio: 1.45;
+    object-fit: auto;
+    object-position: center;
+    width: 162px;
+    align-self: center;
+    margin-top: 216px;
+    max-width: 100%;
+  }
+  .div-3 {
+    z-index: 10;
+    display: flex;
+    margin-top: 61px;
+    width: 100%;
+    flex-direction: column;
+    font-weight: 400;
+    padding: 0 16px;
+  }
+  .div-4 {
+    color: #463a3a;
+    font: 600 25px Roboto, sans-serif;
+  }
+  .div-5 {
+    align-self: start;
+    display: flex;
+    margin-top: 9px;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+    color: #6a6a6a;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    align-self: stretch;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 43px;
+    font: 16px/27px Roboto, sans-serif;
+  }
+  .div-10 {
+    display: flex;
+    margin-top: 26px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-11 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-12 {
+    color: #6a6a6a;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-13 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: end;
+    margin-top: 11px;
+    width: 12px;
+    height: 14px;
+  }
+  .div-14 {
+    color: #00ff75;
+    margin-top: 11px;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-15 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ec2a38;
+    margin-top: 26px;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 29px;
+    font: 600 18px/150% Roboto, sans-serif;
+  }
+  .div-16 {
+    display: flex;
+    gap: 6px;
+  }
+  .div-17 {
+    color: #f00;
+    flex-grow: 1;
+    margin: auto 0;
+    font: 12px/225% Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-19 {
+    display: flex;
+    padding-left: 80px;
+    flex-direction: column;
+    font-size: 14px;
+    white-space: nowrap;
+    line-height: 193%;
+  }
+  .div-20 {
+    color: #6a6a6a;
+    font-family: Roboto, sans-serif;
+    align-self: start;
+  }
+  .div-21 {
+    align-self: end;
+    display: flex;
+    margin-top: 7px;
+    gap: 15px;
+    color: #000;
+    padding: 0 2px;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-23 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #463a3a;
+    margin-top: 30px;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+  .img-6 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+    align-self: center;
+    margin-top: 6px;
+  }
+  .div-24 {
+    disply: flex;
+    flex-direction: column;
+    fill: #ef2a39;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 65px;
+    margin-top: -22px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 32px;
+  }
+  .img-7 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .img-8 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+  .div-25 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 13px 29px;
+  }
+  .div-26 {
+    position: relative;
+    border-radius: 50%;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 11px 44px 29px;
+  }
+  .img-9 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: start;
+    margin-top: 11px;
+  }
+</style>
+page 12 
+
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+  </div>
+  <div class="div-3">
+    <div class="div-4">
+      <div class="column">
+        <div class="div-5">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-2"
+          />
+          <div class="div-6">Toppings</div>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="div-7">
+          <div class="div-8">
+            Customize
+            <span style="font-weight: 400">Your Burger</span>
+            <br />
+            <span style="font-weight: 400">
+              To Your Testes. Ultimate Experience
+            </span>
+          </div>
+          <div class="div-9">Spicy</div>
+          <div class="div-10"></div>
+          <div class="div-11">
+            <div class="div-12">Mild</div>
+            <div class="div-13">Hot</div>
+          </div>
+          <div class="div-14">Portion</div>
+          <div class="div-15">
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-3"
+            />
+            <div class="div-16">2</div>
+            <img
+              loading="lazy"
+              srcset="..."
+              class="img-4"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-17">
+    <div class="div-18">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-5"
+      />
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-6"
+      />
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-7"
+      />
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-8"
+      />
+      <img
+        loading="lazy"
+        src="https://cdn.builder.io/api/v1/image/assets/TEMP/ddba397bee7cf05ffa3f6a6e36dc8612963db480c2e5f5dc08da3d8ad3d6823b?"
+        class="img-9"
+      />
+      <div class="div-19">
+        <div class="div-20">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-10"
+          />
+        </div>
+        <div class="div-21">
+          <div class="div-22">Mushroom</div>
+          <div class="div-23"><div class="div-24"></div></div>
+        </div>
+      </div>
+      <div class="div-25">
+        <div class="div-26">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-11"
+          />
+        </div>
+        <div class="div-27">
+          <div class="div-28">Avocado</div>
+          <div class="div-29"><div class="div-30"></div></div>
+        </div>
+      </div>
+    </div>
+    <div class="div-31">Side option</div>
+  </div>
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img-12"
+  />
+  <div class="div-32">
+    <div class="div-33">
+      <div class="div-34">Total</div>
+      <div class="div-35">
+        <span style="font-size: 12px; color: rgba(239, 42, 57, 1)">$</span>
+        <span style="font-size: 20px">16.49</span>
+      </div>
+    </div>
+    <div class="div-36">ORDER NOW</div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 35px 0;
+  }
+  .div-2 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 389px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .div-3 {
+    margin-top: 4px;
+    width: 100%;
+  }
+  .div-4 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 57%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-5 {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    font-size: 14px;
+    color: #463a3a;
+    font-weight: 500;
+    white-space: nowrap;
+    line-height: 193%;
+    padding: 0 20px;
+  }
+  .img-2 {
+    aspect-ratio: 0.66;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  .div-6 {
+    font-family: Roboto, sans-serif;
+    align-self: start;
+    margin-top: 29px;
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 43%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-7 {
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    font-weight: 500;
+    margin: auto 0;
+    padding: 0 20px;
+  }
+  .div-8 {
+    color: #463a3a;
+    font: 600 15px/28px Roboto, sans-serif;
+  }
+  .div-9 {
+    color: #6a6a6a;
+    margin-top: 32px;
+    font: 16px/169% Roboto, sans-serif;
+  }
+  .div-10 {
+    border-radius: 4px;
+    box-shadow: 0px 2px 25px 0px rgba(255, 153, 0, 0.25);
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 3px;
+    background-color: #ef2a39;
+    align-self: center;
+    margin-top: 11px;
+    width: 18px;
+    height: 14px;
+  }
+  .div-11 {
+    display: flex;
+    margin-top: 11px;
+    gap: 20px;
+    font-size: 12px;
+    white-space: nowrap;
+    line-height: 225%;
+    justify-content: space-between;
+  }
+  .div-12 {
+    color: #00ff75;
+    font-family: Roboto, sans-serif;
+  }
+  .div-13 {
+    color: #f00;
+    font-family: Roboto, sans-serif;
+  }
+  .div-14 {
+    color: #6a6a6a;
+    margin-top: 25px;
+    font: 14px/193% Roboto, sans-serif;
+  }
+  .div-15 {
+    display: flex;
+    margin-top: 12px;
+    gap: 20px;
+    font-size: 14px;
+    color: #000;
+    white-space: nowrap;
+    line-height: 193%;
+    justify-content: space-between;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-16 {
+    font-family: Roboto, sans-serif;
+    margin: auto 0;
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 38px;
+    border-radius: 10px;
+    box-shadow: 0px 7px 13px 0px rgba(255, 153, 0, 0.31);
+  }
+  .div-17 {
+    display: flex;
+    margin-top: 9px;
+    width: 100%;
+    padding-left: 19px;
+    flex-direction: column;
+    align-items: start;
+  }
+  .div-18 {
+    display: flex;
+    align-items: start;
+    gap: 15px;
+  }
+  .img-5 {
+    aspect-ratio: 0.93;
+    object-fit: auto;
+    object-position: center;
+    width: 84px;
+    margin-top: 9px;
+  }
+  .img-6 {
+    aspect-ratio: 0.93;
+    object-fit: auto;
+    object-position: center;
+    width: 84px;
+    margin-top: 9px;
+  }
+  .img-7 {
+    aspect-ratio: 0.93;
+    object-fit: auto;
+    object-position: center;
+    width: 84px;
+    margin-top: 9px;
+  }
+  .img-8 {
+    aspect-ratio: 0.89;
+    object-fit: auto;
+    object-position: center;
+    width: 84px;
+    margin-top: 6px;
+  }
+  .img-9 {
+    aspect-ratio: 0.84;
+    object-fit: auto;
+    object-position: center;
+    width: 84px;
+    align-self: stretch;
+  }
+  .div-19 {
+    border-radius: 15px;
+    box-shadow: 0px 6px 18px 0px rgba(0, 0, 0, 0.15);
+    background-color: #463a3a;
+    align-self: end;
+    display: flex;
+    margin-top: 39px;
+    flex-direction: column;
+    flex: 1;
+    padding: 1px 0;
+  }
+  .div-20 {
+    border-radius: 15px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    z-index: 10;
+    display: flex;
+    margin-top: -30px;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 15px;
+  }
+  .img-10 {
+    aspect-ratio: 1.32;
+    object-fit: auto;
+    object-position: center;
+    width: 50px;
+  }
+  .div-21 {
+    display: flex;
+    gap: 1px;
+  }
+  .div-22 {
+    color: #fff;
+    font: 500 12px/27px Roboto, sans-serif;
+  }
+  .div-23 {
+    border-radius: 10px;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    margin: auto 0;
+    padding: 6px 0;
+  }
+  .div-24 {
+    height: 4px;
+  }
+  .div-25 {
+    border-radius: 15px;
+    box-shadow: 0px 6px 18px 0px rgba(0, 0, 0, 0.15);
+    background-color: #463a3a;
+    align-self: end;
+    display: flex;
+    margin-top: 39px;
+    flex-direction: column;
+    flex: 1;
+    padding: 1px 0;
+  }
+  .div-26 {
+    border-radius: 15px;
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.15);
+    background-color: #fff;
+    z-index: 10;
+    display: flex;
+    margin-top: -30px;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding: 6px 17px;
+  }
+  .img-11 {
+    aspect-ratio: 1.22;
+    object-fit: auto;
+    object-position: center;
+    width: 60px;
+  }
+  .div-27 {
+    display: flex;
+    gap: 11px;
+  }
+  .div-28 {
+    color: #fff;
+    font: 500 12px/27px Roboto, sans-serif;
+  }
+  .div-29 {
+    border-radius: 10px;
+    background-color: #ef2a39;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    margin: auto 0;
+    padding: 6px 0;
+  }
+  .div-30 {
+    height: 4px;
+  }
+  .div-31 {
+    color: #463a3a;
+    margin-top: 44px;
+    font: 500 14px/193% Roboto, sans-serif;
+  }
+  .img-12 {
+    aspect-ratio: 3.03;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    margin-top: 6px;
+  }
+  .div-32 {
+    align-self: center;
+    display: flex;
+    margin-top: 47px;
+    width: 100%;
+    max-width: 392px;
+    gap: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .div-33 {
+    display: flex;
+    flex-direction: column;
+    color: #463a3a;
+    margin: auto 0;
+    padding: 0 20px;
+  }
+  .div-34 {
+    font: 14px/193% Roboto, sans-serif;
+  }
+  .div-35 {
+    margin-top: 17px;
+    font: 10px/27px Roboto, sans-serif;
+  }
+  .div-36 {
+    border-radius: 20px;
+    box-shadow: 0px 9px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #ef2a39;
+    color: #fff;
+    justify-content: center;
+    padding: 25px 57px;
+    font: 18px/150% Roboto, sans-serif;
+  }
+</style>
+
+
+page `13
+
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img"
+      />
+      <div class="div-4">Order summary</div>
+      <div class="div-5">
+        <div class="div-6">
+          <span
+            style="
+              font-family: Roboto, sans-serif;
+              font-weight: 400;
+              font-size: 18px;
+              color: rgba(125, 125, 125, 1);
+            "
+          >
+            Order
+          </span>
+        </div>
+        <div class="div-7">Taxes</div>
+        <div class="div-8">Delivery fee</div>
+      </div>
+    </div>
+    <div class="div-9">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-2"
+      />
+      <div class="div-10">$16.48</div>
+      <div class="div-11">$0.3</div>
+      <div class="div-12">$1.5</div>
+    </div>
+  </div>
+  <div class="div-13"></div>
+  <div class="div-14">
+    <div class="div-15">
+      <div class="div-16">Total:</div>
+      <div class="div-17">Estimated delivery time</div>
+    </div>
+    <div class="div-18">
+      <div class="div-19">$18.19</div>
+      <div class="div-20">15-30mins</div>
+    </div>
+  </div>
+  <div class="div-21">Payment methods</div>
+  <div class="div-22">
+    <div class="div-23">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-3"
+      />
+      <div class="div-24">
+        <div class="div-25">Credit card</div>
+        <div class="div-26">1294 **** **** 0936</div>
+      </div>
+    </div>
+    <div class="div-27"><div class="div-28"></div></div>
+  </div>
+  <div class="div-29">
+    <div class="div-30">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-4"
+      />
+      <div class="div-31">
+        <div class="div-32">Debit card</div>
+        <div class="div-33">3553 **** **** 0936</div>
+      </div>
+    </div>
+    <div class="div-34"></div>
+  </div>
+  <div class="div-35">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img-5"
+    />
+    <div class="div-36">Save card detail for future payments</div>
+  </div>
+  <div class="div-37">
+    <div class="div-38">
+      <div class="div-39">Total price</div>
+      <div class="div-40">
+        <span style="color: rgba(239, 42, 57, 1)">$</span>
+        18.19
+      </div>
+    </div>
+    <div class="div-41">Pay now</div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 32px 19px;
+  }
+  .div-2 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 0 2px;
+  }
+  .div-3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+  }
+  .div-4 {
+    color: #3c2f2f;
+    margin-top: 35px;
+    font: 600 20px Poppins, sans-serif;
+  }
+  .div-5 {
+    display: flex;
+    margin-top: 32px;
+    flex-direction: column;
+    align-items: start;
+    font-size: 18px;
+    color: #7d7d7d;
+    font-weight: 400;
+    padding: 0 55px 0 17px;
+  }
+  .div-6 {
+    font: 500 20px Poppins, sans-serif;
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    margin-top: 28px;
+  }
+  .div-8 {
+    font-family: Roboto, sans-serif;
+    margin-top: 23px;
+  }
+  .div-9 {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    color: #7d7d7d;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  .img-2 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 25px;
+    align-self: end;
+  }
+  .div-10 {
+    font-family: Roboto, sans-serif;
+    margin-top: 85px;
+  }
+  .div-11 {
+    font-family: Roboto, sans-serif;
+    align-self: center;
+    margin-top: 24px;
+  }
+  .div-12 {
+    font-family: Roboto, sans-serif;
+    align-self: center;
+    margin-top: 20px;
+  }
+  .div-13 {
+    border-color: rgba(125, 125, 125, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #7d7d7d;
+    align-self: center;
+    margin-top: 20px;
+    width: 357px;
+    max-width: 100%;
+    height: 1px;
+  }
+  .div-14 {
+    align-self: center;
+    display: flex;
+    margin-top: 25px;
+    width: 100%;
+    max-width: 358px;
+    align-items: start;
+    gap: 20px;
+    color: #3c2f2f;
+    font-weight: 600;
+    justify-content: space-between;
+  }
+  .div-15 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-16 {
+    font: 18px Roboto, sans-serif;
+  }
+  .div-17 {
+    margin-top: 34px;
+    font: 13px Roboto, sans-serif;
+  }
+  .div-18 {
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+  }
+  .div-19 {
+    align-self: start;
+    margin-left: 10px;
+    font: 18px Roboto, sans-serif;
+  }
+  .div-20 {
+    margin-top: 32px;
+    font: 13px Roboto, sans-serif;
+  }
+  .div-21 {
+    color: #3c2f2f;
+    margin-top: 59px;
+    font: 600 20px Poppins, sans-serif;
+  }
+  .div-22 {
+    border-radius: 20px;
+    background-color: #3c2f2f;
+    display: flex;
+    margin-top: 25px;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 19px 17px;
+  }
+  .div-23 {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    justify-content: space-between;
+  }
+  .img-3 {
+    aspect-ratio: 1.67;
+    object-fit: auto;
+    object-position: center;
+    width: 70px;
+  }
+  .div-24 {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0;
+  }
+  .div-25 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+  }
+  .div-26 {
+    color: #808080;
+    font-family: Roboto, sans-serif;
+    margin-top: 16px;
+  }
+  .div-27 {
+    stroke-width: 2px;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 2px;
+    background-color: #3c2f2f;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    margin: auto 0;
+    padding: 0 5px;
+  }
+  .div-28 {
+    background-color: #fff;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+  }
+  .div-29 {
+    border-radius: 20px;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.1);
+    background-color: #f3f4f6;
+    display: flex;
+    margin-top: 27px;
+    width: 100%;
+    gap: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    justify-content: space-between;
+    padding: 22px 19px 22px 9px;
+  }
+  .div-30 {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img-4 {
+    aspect-ratio: 2.5;
+    object-fit: auto;
+    object-position: center;
+    width: 83px;
+    align-self: start;
+  }
+  .div-31 {
+    display: flex;
+    flex-direction: column;
+  }
+  .div-32 {
+    color: #3c2f2f;
+    font-family: Roboto, sans-serif;
+  }
+  .div-33 {
+    color: #808080;
+    font-family: Roboto, sans-serif;
+    margin-top: 16px;
+  }
+  .div-34 {
+    stroke-width: 2px;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 2px;
+    background-color: #f3f4f6;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin: auto 0;
+  }
+  .div-35 {
+    display: flex;
+    margin-top: 42px;
+    gap: 9px;
+    font-size: 16px;
+    color: #808080;
+    font-weight: 400;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 18px;
+    border-radius: 4px;
+  }
+  .div-36 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .div-37 {
+    display: flex;
+    margin-top: 132px;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .div-38 {
+    align-self: start;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+  }
+  .div-39 {
+    color: #808080;
+    font: 400 16px Roboto, sans-serif;
+  }
+  .div-40 {
+    color: #3c2f2f;
+    margin-top: 9px;
+    font: 600 32px Roboto, sans-serif;
+  }
+  .div-41 {
+    border-radius: 20px;
+    background-color: #3c2f2f;
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+    padding: 27px 60px;
+    font: 600 18px Roboto, sans-serif;
+  }
+</style>
+
+
+page 14
+'
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <div class="div-3">Success !</div>
+    <div class="div-4">
+      Your payment was successful
+      <br />
+      A receipt for this purchacs has
+      <br />
+      been sent to your email.
+    </div>
+    <div class="div-5">Go back</div>
+  </div>
+</div>
+<style>
+  .div {
+    justify-content: center;
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 80px 45px;
+  }
+  .div-2 {
+    border-radius: 20px;
+    box-shadow: 0px 19px 47px -8px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    display: flex;
+    margin-top: 186px;
+    flex-direction: column;
+    align-items: center;
+    padding: 31px 60px;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 90px;
+    background-color: #ef2a39;
+    border-radius: 50%;
+    height: 90px;
+  }
+  .div-3 {
+    color: #ef2a39;
+    margin-top: 32px;
+    font: 700 30px Poppins, sans-serif;
+  }
+  .div-4 {
+    color: #808080;
+    text-align: center;
+    margin-top: 29px;
+    font: 400 14px/16px Roboto, sans-serif;
+  }
+  .div-5 {
+    border-radius: 15px;
+    background-color: #ef2a39;
+    align-self: stretch;
+    margin-top: 49px;
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 60px;
+    font: 600 18px Roboto, sans-serif;
+  }
+</style>
+
+page 15
+
+
+
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      srcset="..."
+      class="img"
+    />
+    <div class="div-3">Success !</div>
+    <div class="div-4">
+      Your payment was successful
+      <br />
+      A receipt for this purchacs has
+      <br />
+      been sent to your email.
+    </div>
+    <div class="div-5">Go back</div>
+  </div>
+</div>
+<style>
+  .div {
+    justify-content: center;
+    border-radius: 35px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 80px 45px;
+  }
+  .div-2 {
+    border-radius: 20px;
+    box-shadow: 0px 19px 47px -8px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    display: flex;
+    margin-top: 186px;
+    flex-direction: column;
+    align-items: center;
+    padding: 31px 60px;
+  }
+  .img {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 90px;
+    background-color: #ef2a39;
+    border-radius: 50%;
+    height: 90px;
+  }
+  .div-3 {
+    color: #ef2a39;
+    margin-top: 32px;
+    font: 700 30px Poppins, sans-serif;
+  }
+  .div-4 {
+    color: #808080;
+    text-align: center;
+    margin-top: 29px;
+    font: 400 14px/16px Roboto, sans-serif;
+  }
+  .div-5 {
+    border-radius: 15px;
+    background-color: #ef2a39;
+    align-self: stretch;
+    margin-top: 49px;
+    align-items: center;
+    color: #fff;
+    justify-content: center;
+    padding: 23px 60px;
+    font: 600 18px Roboto, sans-serif;
+  }
+</style>
+
+
+
